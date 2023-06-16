@@ -34,7 +34,7 @@ function App() {
   }
   return (
     <div className="App">
-      <button className="btn" onClick={getLocation}>Get Location</button>
+      <button className="btn" onClick={getLocation}>In Which Season You Are IN</button>
       {/* <p>Latatitude : {latitude}</p>
       <p>Longitude : {longitude}</p>
       <p>Hemishpere : {Hemishpere}</p> */}
